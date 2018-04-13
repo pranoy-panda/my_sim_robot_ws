@@ -1,0 +1,3 @@
+Symlinking /home/pranoy/my_sim_robot_ws/devel/share/myrobot_description/cmake/myrobot_descriptionConfig-version.cmake
+Symlinking /home/pranoy/my_sim_robot_ws/devel/share/myrobot_description/cmake/myrobot_descriptionConfig.cmake
+Symlinking /home/pranoy/my_sim_robot_ws/devel/lib/pkgconfig/myrobot_description.pc

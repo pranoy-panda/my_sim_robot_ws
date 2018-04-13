@@ -1,0 +1,4 @@
+CMake Error: The source directory "/home/pranoy/my_sim_robot_ws/src/robot_description" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+Makefile:332: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

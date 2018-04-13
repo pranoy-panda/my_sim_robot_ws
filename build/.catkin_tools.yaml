@@ -1,0 +1,6 @@
+devel_space: /home/pranoy/my_sim_robot_ws/devel
+install: false
+install_space: /home/pranoy/my_sim_robot_ws/install
+profile: default
+source_space: /home/pranoy/my_sim_robot_ws/src
+workspace: /home/pranoy/my_sim_robot_ws

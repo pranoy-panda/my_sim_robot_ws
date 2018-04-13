@@ -1,0 +1,8 @@
+prefix=/home/pranoy/my_sim_robot_ws/devel/.private/myrobot_description
+
+Name: myrobot_description
+Description: Description of myrobot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pranoy/my_sim_robot_ws/devel/.private/myrobot_description/lib 
+Requires: 
